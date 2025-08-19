@@ -1,0 +1,17 @@
+{
+    "require": {
+        "filament/filament": "^3.2",
+        "spatie/laravel-sluggable": "^3.7",
+        "spatie/laravel-sitemap": "^7.3",
+        "spatie/laravel-permission": "^6.21"
+    },
+    "require-dev": {
+        "pestphp/pest": "^3.8",
+        "laravel/pint": "^1.24"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
